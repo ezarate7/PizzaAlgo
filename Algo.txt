@@ -1,3 +1,5 @@
 Step 1: order the pizza
 Step 2: wait for delivery
 Step 3: pay for food
+Step 4: eat food
+Step 5: watch a movie
